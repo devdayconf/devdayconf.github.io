@@ -17,6 +17,5 @@ With the event, we aim to get companies in the city to connect with people and t
 <li>
 <a href="https://github.com/devdayconf/devdayconf.github.io/blob/gh-pages/Rules_DevDayConf/rules.txt">English - Rules</a></li>
 
-<br>
 <li>
 <a href="https://github.com/devdayconf/devdayconf.github.io/blob/gh-pages/Rules_DevDayConf/code-conduct.mdown">Code of Conduct</a></li>
