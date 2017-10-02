@@ -3,29 +3,28 @@
 
 We have an official policy against the harassment of events and activities of DevDay Conference.
 
-##Goal
+## Goal
 
 The DevDay Conference is dedicated to providing a free event for all and without harassment.
 We cherish an event for everyone regardless of:
-- genre
+- Genre
 - Sexual Orientation
-Disability
+- Disability
 - Gender identity
-- it was
-- the religion
-- Nationality
+- Religion.
+- Nationality.
 
 ## The harassment
 
 Harassment includes (but is not limited to):
-- Offensive verbal comments related to gender, sexual orientation, disability, gender identity, age, race, religion
-- The use or display of sexual images in public spaces
-- deliberate intimidation
-- The chase
-- Photographing harassment or recording
-- Change of voice or other events
-- inadequate physical contact
-- Unwanted sexual attention
+- Offensive verbal comments related to gender, sexual orientation, disability, gender identity, age, race, religion.
+- The use or display of sexual images in public spaces.
+- Feliberate intimidation.
+- The chase.
+- Photographing harassment or recording.
+- Change of voice or other events.
+- Inadequate physical contact.
+- Unwanted sexual attention.
 
 This is not a complete list - we do not tolerate the harassment of event participants in any way.
 
@@ -34,12 +33,13 @@ This is not a complete list - we do not tolerate the harassment of event partici
 If a participant who asks to stop any harassing behavior, it must be attended to immediately.
 
 If you are being harassed, noticing that someone is being harassed, or any other concern, contact organizers or volunteers immediately.
+
 Please, give us:
-- the data of who was harassing (name, identification in the credential)
-- What the person was doing
-- how many times and how long did the situation last
-- who was on the spot
-- whether other people were involved
+- The data of who was harassing (name, identification in the credential).
+- What the person was doing.
+- How many times and how long did the situation last.
+- Who was on the spot.
+- Whether other people were involved.
 
 The organizers will investigate the problem and take appropriate action. This may include helping participants get in touch with local security or local police.
 
