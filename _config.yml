@@ -1,7 +1,7 @@
 # Site settings
-title: Dev Day Conference 
-email: "devdayconf@gmail.com"
-description: Event for all communities.
+title: + Con
+email: "masconferencia@gmail.com"
+description: Event for all.
 baseurl: "/devdayconf.github.io"
 # url: "/argentinadevday"
 # twitter_username: _devdayconf
@@ -10,7 +10,7 @@ baseurl: "/devdayconf.github.io"
 # Build settings
 markdown: kramdown
 
-highlighter: green
+highlighter: grey
 
 
 collections:
