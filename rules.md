@@ -5,7 +5,7 @@ permalink: /rules/
 ---
 
 
-<p> <strong>+Con</strong> is a free event where the goal is to bring together people who work with technology. From a student, someone who has an interest in technology, to an expert.</p>
+<p> <strong>+Con</strong> is a free event where the goal is to bring together developers, design, managers, students and anyone who is curious about technology. From a student, or someone who has an interest in technology, to a specialist.</p>
 <p>
 Our goal is to make even an expert access to basic content of something you do not know.</p>
 <p>
