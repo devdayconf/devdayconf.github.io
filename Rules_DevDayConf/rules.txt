@@ -8,8 +8,7 @@ Event Rules:
 
 - The event must be done in just 1 day with the amount of tracks that the organization deems necessary.
 - All tracks must follow the time pattern. Example: 14:00 - 15:30 Workshop, ie all rooms must have the same schedule according to the schedules.
-- Event Layout will be provided by +Con.
-- To request the event in your city just ask in the form.
+
 
 -> Tickets, T-shirts and Expenses <-
 - The event must be free.
@@ -23,7 +22,6 @@ Event Rules:
 - There must be a voting form for the Open Source projects, which will be done by the participants of the event.
 - The result of the voting should be open to the public.
 - The registered Project must be part of the country of the event.
-- The event can open a donation campaign so that the amount collected is donated to the Best Open Source project.
 - The winning project (or the first ones) earns the right to a talk.
 
 
