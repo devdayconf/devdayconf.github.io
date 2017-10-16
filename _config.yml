@@ -2,7 +2,7 @@
 title: + Con
 email: "masconferencia@gmail.com"
 description: Event for all.
-baseurl: "/+con.github.io"
+# baseurl: "/+con.github.io"
 # url: "/argentinadevday"
 # twitter_username: _devdayconf
 # github_username: devdayconf
