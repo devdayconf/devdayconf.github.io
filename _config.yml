@@ -5,7 +5,7 @@ description: Event for all.
 baseurl: "/"
 url: "/mas-con.github.io"
 # twitter_username: _devdayconf
-# github_username: devdayconf
+# github_username: mas-con
 
 # Build settings
 markdown: kramdown
