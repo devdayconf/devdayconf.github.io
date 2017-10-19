@@ -12,7 +12,7 @@ permalink: /events/
     <div class="thumbnail">
         <a href="{{ event.redirect }}" target="_blank">
             {% if event.img %}
-            <img class="thumbnail resize-img" src="{{ site.baseurl }}/{{ event.img }}"/>
+            <img class="thumbnail resize-img" src="{{ site.baseurl }}/{{ event.img }} "/>
             {% else %}
             <div class="thumbnail blankbox"></div>
             {% endif %}
